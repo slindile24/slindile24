@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, Coders, my name is Slindile <br>Nkabinde and I am an aspiring Software <br>Developer who is willing to grow, learn and<br>teach.<br>I am currently a student at WeThinkCode<br>and I have experience in Python but now I am <br>dwelling into Java and I seem to be interested<br>in this programming language more.<br><br>I am looking forward to collaborating on fun <br>and impactful projects.<br><br>Crazy Fun fact: Crocodiles can gallop like a horse.
+Hey there, Coders, my name is Slindile <br>Nkabinde and I am an aspiring Software <br>Developer who is willing to grow, learn and<br>teach.<br>I have a strong interest in Python and Data<br>and I am looking forward to collaborating on fun <br>and impactful projects.<br><br>Crazy Fun fact: Crocodiles can gallop like a horse.
 
 
 ## 🌐 Socials:
