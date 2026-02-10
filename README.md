@@ -21,9 +21,9 @@ Hey there, Coders, my name is Slindile <br>Nkabinde and I am an aspiring Softwar
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=slindile24&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slindile24&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slindile24&layout=compact&theme=dark&langs_count=6)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=slindile24&theme=dark&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=slindile24&theme=flat&column=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=slindile24&icon=0&color=0)](https://visitcount.itsvg.in)
