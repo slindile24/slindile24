@@ -38,7 +38,6 @@ Hey there, Coders, my name is Slindile <br>Nkabinde and I am an aspiring Softwar
 ![GitHub Streak](https://streak-stats.demolab.com?user=slindile24&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=slindile24&theme=flat&column=4&v=2)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=slindile24&icon=0&color=0)](https://visitcount.itsvg.in)
