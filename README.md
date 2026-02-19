@@ -39,8 +39,7 @@ Hey there, Coders, my name is Slindile <br>Nkabinde and I am an aspiring Softwar
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=slindile24&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
