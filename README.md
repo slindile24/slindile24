@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hey there, Coders, my name is Slindile <br>Nkabinde and I am an aspiring Software <br>Developer who is willing to grow, learn and<br>teach.<br>I have a strong interest in Python and Data<br>and I am looking forward to collaborating on fun <br>and impactful projects.<br><br>Crazy Fun fact: Crocodiles can gallop like a horse.
-
+Hey there, I'm Slindile Nkabinde 👋🏽 <br>
+Aspiring Software Engineer & Data Engineer with a strong interest in Python, backend development, and data-driven systems. <br>
+I enjoy building scalable solutions, working with data, and continuously improving my technical skills. <br>
+Open to collaborating on impactful and innovative projects. <br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slindilenkabs23@gmail.com) 
