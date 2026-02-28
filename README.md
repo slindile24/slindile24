@@ -6,6 +6,7 @@ Open to collaborating on impactful and innovative projects. <br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slindilenkabs23@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slindile-nkabinde-889422282/)
 
 ## 💻 Tech Stack
 
