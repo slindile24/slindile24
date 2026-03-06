@@ -43,6 +43,9 @@ Open to collaborating on impactful and innovative projects. <br><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slindile24&theme=dark&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=slindile24&theme=darkhub&no-frame=true&margin-w=15)
+
 
 
 
