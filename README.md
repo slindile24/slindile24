@@ -35,11 +35,13 @@ Open to collaborating on impactful and innovative projects. <br><br>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=slindile24&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=slindile24&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-stats.vercel.app/api?username=slindile24&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=slindile24&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slindile24&theme=dark&layout=compact)
 
 
 
