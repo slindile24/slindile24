@@ -47,8 +47,8 @@ Open to collaborating on impactful and innovative projects. <br><br>
 ![](https://github-profile-trophy.vercel.app/?username=slindile24&theme=darkhub&no-frame=true&margin-w=15)
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=slindile24&theme=github-dark)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=slindile24&theme=github-dark&hide_border=true&area=true)
 
 
 
