@@ -15,7 +15,7 @@ Open to collaborating on impactful and innovative projects 💕
 ![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🗄 Databases
+### 🗄 Databases 🎀
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-EC4899?style=for-the-badge&logo=sqlite&logoColor=white)
 
