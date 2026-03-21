@@ -10,10 +10,10 @@ Open to collaborating on impactful and innovative projects 💕
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slindile-nkabinde-889422282/)
 
 ### 👨🏽‍💻 Languages
-![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-EC4899?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-EC4899?style=for-the-badge&logo=openjdk&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=black)
 
 ### 🗄 Databases 🎀
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=white)
