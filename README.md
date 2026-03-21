@@ -5,9 +5,8 @@ I enjoy building scalable solutions, working with data, and continuously improvi
 Open to collaborating on impactful and innovative projects 💕
 
 ## 🌐 Socials
-
-[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slindilenkabs23@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slindile-nkabinde-889422282/)
+[![Email](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=black)](mailto:slindilenkabs23@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/slindile-nkabinde-889422282/)
 
 ### 👨🏽‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge&logo=python&logoColor=black)
