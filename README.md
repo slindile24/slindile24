@@ -16,16 +16,16 @@ Open to collaborating on impactful and innovative projects 💕
 ![HTML](https://img.shields.io/badge/HTML5-EC4899?style=for-the-badge&logo=html5&logoColor=black)
 
 ### 🗄 Databases 🎀
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-EC4899?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-EC4899?style=for-the-badge&logo=sqlite&logoColor=black)
 
 ### ⚙️ Frameworks & Libraries
-![Pandas](https://img.shields.io/badge/Pandas-EC4899?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-EC4899?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-EC4899?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-EC4899?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-EC4899?style=for-the-badge&logo=numpy&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-EC4899?style=for-the-badge&logo=python&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-EC4899?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-EC4899?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-EC4899?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-EC4899?style=for-the-badge&logo=streamlit&logoColor=black)
 
 ### 🛠 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-EC4899?style=for-the-badge&logo=visualstudiocode&logoColor=white)
