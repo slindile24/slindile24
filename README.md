@@ -28,11 +28,11 @@ Open to collaborating on impactful and innovative projects 💕
 ![Streamlit](https://img.shields.io/badge/Streamlit-EC4899?style=for-the-badge&logo=streamlit&logoColor=black)
 
 ### 🛠 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-EC4899?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-EC4899?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-EC4899?style=for-the-badge&logo=linux&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-EC4899?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-EC4899?style=for-the-badge&logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-EC4899?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Git](https://img.shields.io/badge/Git-EC4899?style=for-the-badge&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-EC4899?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-EC4899?style=for-the-badge&logo=jupyter&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-EC4899?style=for-the-badge&logo=openai&logoColor=black)
 
 # 📊 GitHub Stats
 
