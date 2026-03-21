@@ -1,8 +1,8 @@
-# 💫 About Me:
-Hey there, I'm Slindile Nkabinde 👋🏽 <br>
-Aspiring Software Engineer & Data Engineer with a strong interest in Python, backend development, and data-driven systems. <br>
-I enjoy building scalable solutions, working with data, and continuously improving my technical skills. <br>
-Open to collaborating on impactful and innovative projects. <br><br>
+About Me 🎀  
+Hey there, I'm Slindile Nkabinde 👋🏽  
+Aspiring Software Engineer & Data Engineer with a strong interest in Python, backend development, and data-driven systems.  
+I enjoy building scalable solutions, working with data, and continuously improving my technical skills.  
+Open to collaborating on impactful and innovative projects 💕
 
 ## 🌐 Socials
 
