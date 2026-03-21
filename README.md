@@ -4,9 +4,11 @@ Aspiring Software Engineer & Data Engineer with a strong interest in Python, bac
 I enjoy building scalable solutions, working with data, and continuously improving my technical skills. <br>
 Open to collaborating on impactful and innovative projects. <br><br>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slindilenkabs23@gmail.com) 
+## 🌐 Socials
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slindilenkabs23@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slindile-nkabinde-889422282/)
+
 
 ## 💻 Tech Stack
 
@@ -15,6 +17,7 @@ Open to collaborating on impactful and innovative projects. <br><br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
